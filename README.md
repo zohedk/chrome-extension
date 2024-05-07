@@ -1,7 +1,7 @@
 
 
 
-https://github.com/zohedk/LinkedIn-AI-Reply-Chrome-Extension/assets/114843472/21c70874-b83e-41c8-a89e-5aa2bcc17add
+https://github.com/zohedk/chrome-extension/assets/114843472/21c70874-b83e-41c8-a89e-5aa2bcc17add
 
 
 
